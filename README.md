@@ -30,4 +30,40 @@ Este repositorio reúne, organiza y documenta:
 ---
 
 ## 🧭 Estructura general
+MentorKoi-CrecerSinLimite/
+│
+├── README.md
+│
+├── 01_Ebooks/
+│   ├── LeadMagnets/
+│   │   └── Descubri_tu_proposito.pdf
+│   ├── ProductosPago/
+│   │   └── Ebook_Final_Proposito_Viral.pdf
+│
+├── 02_Automatizaciones/
+│   ├── WhatsAppBot/
+│   └── Flujo_Make_Hotmart_OpenAI.md
+│
+├── 03_Embudo_Ventas/
+│   ├── Anuncios/
+│   ├── LandingPages/
+│   └── FunnelCopy/
+│
+├── 04_Recursos_Visuales/
+│   ├── Logos/
+│   ├── Mockups/
+│   └── DiseñosCanva/
+│
+├── 05_Estrategias/
+│   ├── Branding/
+│   └── Posicionamiento/
+│
+├── 06_Curso_Membresía/
+│   ├── Planes/
+│   └── ContenidoMensual/
+│
+└── 07_TechStack_Guia/
+    ├── Herramientas.md
+    ├── API_OpenAI.md
+    └── Configuraciones_Glide_Make.md
 
